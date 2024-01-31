@@ -26,7 +26,7 @@ This repository serves as a comprehensive hub for my contributions to group proj
 - **Main Tutorials Repository:** [CSCI 5709 Tutorials](https://git.cs.dal.ca/ddoshi/csci-5709-tutorials)
   - **Focused Tutorial - Tutorial 2:**
     - **Code Repository:** [Tutorial 2 Repository](https://git.cs.dal.ca/ddoshi/csci-5709-tutorials/-/tree/main/Tutorial2?ref_type=heads)
-    - **Live Preview:** [Netlify Deployment](https://tutorial-2-dharven-doshi-b00925391.netlify.app/)
+    - **Live Preview:** [Netlify Deployment](https://csci-5709-t2-dharven-doshi-b00925391.netlify.app/)
     - **Primary Technology:** React - [React Documentation](https://reactjs.org/)
 
 ### 📚 Assignments
