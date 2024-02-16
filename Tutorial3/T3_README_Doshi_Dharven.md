@@ -17,4 +17,4 @@ Deployed with Netlify, available on above mentioned available link.
  
 - [React](https://legacy.reactjs.org/docs/getting-started.html/) - The web framework used
 - [npm](https://docs.npmjs.com/) - Dependency Management
-- [Material UI](https://material-ui.com/) - UI Library
+
