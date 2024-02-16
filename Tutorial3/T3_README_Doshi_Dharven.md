@@ -1,7 +1,7 @@
 # Tutorial 3
  
-* *Date Created*: 15 February 2023
-* *Last Modification Date*: 15 February 2023
+* *Date Created*: 15 February 2024
+* *Last Modification Date*: 15 February 2024
 * *Assignment URL*: <https://65c424e5e27f700f009d05ba--musical-toffee-f50dd8.netlify.app/>
 * *Git URL*: <https://git.cs.dal.ca/ddoshi/csci-5709-tutorials/Tutorial3.git>
  
