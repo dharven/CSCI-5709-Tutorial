@@ -14,10 +14,10 @@
 Deployed with Render, available on above mentioned link.
 
 ## To evaluate
-To Test the GET Request: https://t5-woix.onrender.com/users
-To Test the POST Request: https://t5-woix.onrender.com/add
-To Test the PUT Request : https://t5-woix.onrender.com/update/[userID]
-To Test the GET Request: https://t5-woix.onrender.com/user/[userID]
+* *To Test the GET Request: https://t5-woix.onrender.com/users
+* *To Test the POST Request: https://t5-woix.onrender.com/add
+* *To Test the PUT Request : https://t5-woix.onrender.com/update/[userID]
+* *To Test the GET Request: https://t5-woix.onrender.com/user/[userID]
  
 ## Built With
  
